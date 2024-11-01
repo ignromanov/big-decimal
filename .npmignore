@@ -1,0 +1,8 @@
+src/
+tests/
+.github/
+.vscode/
+.gitignore
+.npmignore
+vite.config.ts
+tsconfig.json 
