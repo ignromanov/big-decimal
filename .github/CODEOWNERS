@@ -1,0 +1,17 @@
+# Global owners
+* @ignromanov
+
+# Core implementation
+/src/core/ @ignromanov
+
+# Tests
+/tests/ @ignromanov
+
+# Documentation
+/docs/ @ignromanov
+*.md @ignromanov
+
+# Build configuration
+*.json @ignromanov
+*.yml @ignromanov
+*.yaml @ignromanov 
